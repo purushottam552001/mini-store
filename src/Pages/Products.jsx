@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 
-import Productcard from '../Components/Productcard';
+import ProductCard from '../Components/Productcard';
 import Loader from '../Components/Loader';
 
 function Products() {

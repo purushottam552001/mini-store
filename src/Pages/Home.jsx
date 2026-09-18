@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 
-import ProductCard from '../Components/ProductCard';
+import ProductCard from '../Components/Productcard';
 import Loader from '../Components/Loader';
 
 function Home() {
